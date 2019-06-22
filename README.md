@@ -3,7 +3,7 @@
 ### through- Pandas
 ## >>Visualization of dataset by graphs
 ### through- matplotlib
-## >>Calculating Prediction Scores in Machine Learning 
+## >>Calculating and Comparing Prediction Scores in Machine Learning 
 ## through-
 ### 1. Logistic Regression
 ### 2. Decision Tree
